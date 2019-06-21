@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">TETRIS game</string>
+    <string name="login">LOGIN</string>
+    <string name="signup">Signup</string>
+    <string name="signin">Signin</string>
+    <string name="email">Email address</string>
+    <string name="password">Password</string>
+    <string name="pwconfirm">Password Confirm</string>
+    <string name="game_start">Game Start</string>
+    <string name="rules">Rules</string>
+    <string name="result">RESULT</string>
+    <string name="gotohome">홈으로 돌아가기</string>
+    <string name="gotogame">다시 게임하기</string>
+    <color name="myColor">#1E1E1E</color>
+</resources>
